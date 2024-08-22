@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    font-family: tahoma;
+}
+h2{
+    color: rgb(45, 40, 112)
+}
+body{
+    background-color: aqua;
+}
+*{
+    margin: 10px;
+}
+img{
+    width: 500px;
+    height: 180px;
+}
+p{
+    color: blueviolet;
+    background-color: azure;
+}
